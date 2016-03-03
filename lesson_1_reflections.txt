@@ -1,0 +1,21 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A) By providing me with a quick way to glance the changes between files
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A) Revert to older versions, access older ideas, troubleshooting, etc.
+
+When to save as a programmer?
+A) Large changes, frequency, manually, long pause
+
+How can you use the commands git log and git diff to view the history of files?
+A) To view all commits and see differences between files
+
+How might using version control make you more confident to make changes that could break something?
+A) Knowing that you don't lose your work builds confidence and allows experimentation
+
+Now that you have your workspace set up, what do you want to try using Git for?
+A) Websites that I am currently working/have worked on + my programming journey
+
+
+
+
