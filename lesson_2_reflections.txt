@@ -14,6 +14,10 @@ A) Experiments, different versions,
 How do the diagrams help you visualize the branch structure?
 A) Easy to get lost without them, helps organize thoughts
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A) To merge additions by self/team
+
+
 
 
 
