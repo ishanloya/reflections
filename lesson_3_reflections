@@ -3,3 +3,8 @@ A) Working from multiple computers, having multiple users share code, keeping da
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A) Manual - more control (logical changes), Auto - no control (random)
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A) fork - don't know the other programmer/not collaborating/want to change someone's code without affecting
+original files....clone - copy and work locally....branch - experiment, etc.
+
