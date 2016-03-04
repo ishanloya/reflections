@@ -14,3 +14,8 @@ A) If one needs to work offline, it's helpful
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A) Using Google Docs/manually I suppose...easier - easy of use...harder - collaboration
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A) When I don't want to modify/break my production version/work on a new feature/experiment
+Modifying the mester keeps things simpler whereas new branches offer more flexibility
+
+
