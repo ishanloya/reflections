@@ -11,3 +11,6 @@ original files....clone - copy and work locally....branch - experiment, etc.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 A) If one needs to work offline, it's helpful
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A) Using Google Docs/manually I suppose...easier - easy of use...harder - collaboration
+
